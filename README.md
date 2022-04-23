@@ -2,7 +2,7 @@
 install k3d
 
 ```
-curl -s https://raw.githubusercontent.com/rancher/k3d/main/install.sh | bash¥
+curl -s https://raw.githubusercontent.com/rancher/k3d/main/install.sh | bash
 ```
 
 crete resources
